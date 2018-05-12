@@ -1,0 +1,37 @@
+_repo: Art-in-Shell-of-the-Ancient-Americans179-306_42564
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42564-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holmes, William Henry
+    aliases:
+    - Holmes, W. H. (William Henry)
+    - Holmes, William H. (William Henry)
+    birthdate: 1846
+    deathdate: 1933
+    gutenberg_agent_id: '7330'
+    url: http://www.gutenberg.org/2009/agents/7330
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Holmes
+description: ''
+gutenberg_issued: '2013-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian art'
+- !lcc 'E011'
+- !lcsh 'Indians -- Antiquities'
+title: 'Art in Shell of the Ancient Americans
+
+  Second annual report of the Bureau of Ethnology to the
+
+  Secretary of the Smithsonian Institution, 1880-81, pages
+
+  179-306'
+url: http://www.gutenberg.org/ebooks/42564
